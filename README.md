@@ -1,1 +1,1 @@
-# Diploma SimpleTransport Frontend
+# Frontend ReactJS Template
